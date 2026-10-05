@@ -8,7 +8,8 @@ CS + Data Science student at Oregon State (June 2028). I build data pipelines an
 - [Dispatch](link) – real-time emergency dispatch dashboard, 2nd place Social Impact Track
 - [ComboCraft](link) – gesture-controlled computer vision engine, 1st place (30+ teams)
 
-📫 linkedin.com/in/anguyena
+
+📫 [LinkedIn](https://www.linkedin.com/in/anguyena)
 
 <!--
 **alwxngn/alwxngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
