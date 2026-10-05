@@ -7,6 +7,7 @@ CS + Data Science student at Oregon State (June 2028). I build data pipelines an
 **Projects**
 - [Dispatch](link) – real-time emergency dispatch dashboard, 2nd place Social Impact Track
 - [ComboCraft](link) – gesture-controlled computer vision engine, 1st place (30+ teams)
+- [Lantern](https://github.com/alwxngn/Lantern-HackMIT2026) – voice-enabled robot companion and caregiver portal for dementia care (HackMIT 2026). FastAPI, React/TypeScript, WebSockets, Deepgram, ElevenLabs
 
 
 📫 [LinkedIn](https://www.linkedin.com/in/anguyena)
